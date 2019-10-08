@@ -1,1 +1,8 @@
 INSERT INTO (name, age, gender, color, temperament, alive) FROM bears VALUES ("Mr. Chocolate", 10, "male", "brown", "friendly", "true")
+INSERT INTO (name, age, gender, color, temperament, alive) FROM bears VALUES ("Mr. Chocolate", 10, "male", "brown", "friendly", "true")
+INSERT INTO (name, age, gender, color, temperament, alive) FROM bears VALUES ("Mr. Chocolate", 10, "male", "brown", "friendly", "true")
+INSERT INTO (name, age, gender, color, temperament, alive) FROM bears VALUES ("Mr. Chocolate", 10, "male", "brown", "friendly", "true")
+INSERT INTO (name, age, gender, color, temperament, alive) FROM bears VALUES ("Mr. Chocolate", 10, "male", "brown", "friendly", "true")
+INSERT INTO (name, age, gender, color, temperament, alive) FROM bears VALUES ("Mr. Chocolate", 10, "male", "brown", "friendly", "true")
+INSERT INTO (name, age, gender, color, temperament, alive) FROM bears VALUES ("Mr. Chocolate", 10, "male", "brown", "friendly", "true")
+INSERT INTO (name, age, gender, color, temperament, alive) FROM bears VALUES ("Mr. Chocolate", 10, "male", "brown", "friendly", "true")
